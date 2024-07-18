@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6833ed85.css",
+    "main.js": "/static/js/main.899714ef.js",
+    "static/media/Publico-Headline-Web-Bold.ttf": "/static/media/Publico-Headline-Web-Bold.4943559e502c7170fe8c.ttf",
+    "index.html": "/index.html",
+    "main.6833ed85.css.map": "/static/css/main.6833ed85.css.map",
+    "main.899714ef.js.map": "/static/js/main.899714ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6833ed85.css",
+    "static/js/main.899714ef.js"
+  ]
+}

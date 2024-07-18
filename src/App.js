@@ -1,23 +1,13 @@
-import logo from './logo.svg';
+import React from 'react';
+import DonutChartsModule from './components/DonutChartsModule';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>Portfolio breakdown</h1>
+      <p>The pie charts below highlight the investment diversification within the Fund. Please note these charts have been provided for illustrative purposes and they will change over time. For the latest breakdowns, please see the factsheet.</p>
+      <DonutChartsModule />
     </div>
   );
 }
